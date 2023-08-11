@@ -1,6 +1,7 @@
 # fespn
 A neural network made to predict final exam scores of students.<br>
-Read the detailed blog on [Medium](https://ayushah.medium.com/i-trained-a-neural-network-to-predict-final-exam-scores-of-my-classmates-dab1d979a5c4)
+Read the detailed blog on [Medium](https://ayushah.medium.com/i-trained-a-neural-network-to-predict-final-exam-scores-of-my-classmates-dab1d979a5c4)<br>
+Repo of frontend implementation is [here](https://github.com/AyushShahh/passornot)
 
 There are three files:
 - mlp.py - For training the neural network and predicting the scores
